@@ -1,0 +1,37 @@
+I""<h2 id="개설-교과목">개설 교과목</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>교과목번호</th>
+      <th>교과목명</th>
+      <th>교과목영문명</th>
+      <th>교과구분</th>
+      <th>학점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>M3309.000100</td>
+      <td>인공지능의 원리</td>
+      <td>Principles of Artificial Intelligence</td>
+      <td>전선</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>M3309.000100</td>
+      <td>인공지능의 원리</td>
+      <td>Principles of Artificial Intelligence</td>
+      <td>전선</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>M3309.000100</td>
+      <td>인공지능의 원리</td>
+      <td>Principles of Artificial Intelligence</td>
+      <td>전선</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+:ET

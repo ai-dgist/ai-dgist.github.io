@@ -6,8 +6,15 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+* 계열: 이공계
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+* 학위 과정: 석사과정, 박사과정, 석사·박사통합과정
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+* 학위명칭 및 이수학점
+
+
+| 과정         | 학위 명칭      | 이수 학점     |
+| ----------- | ----------- | ----------- |
+| 석사      | 공학석사(협동과정 인공지능전공), Master of Science in Artificial Intelligence | 24학점 이상 |
+| 박사      | 공학박사(협동과정 인공지능전공), Doctor of Philosophy in Artificial Intelligence | 36학점 이상 |
+| 석박통합   | 공학박사(협동과정 인공지능전공), Doctor of Philosophy in Artificial Intelligence | 60학점 이상 |

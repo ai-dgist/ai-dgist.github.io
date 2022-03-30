@@ -6,8 +6,11 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+## 개설 교과목
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+| 교과목번호     | 교과목명      | 교과목영문명   | 교과구분       | 학점         |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| M3309.000100 | 인공지능의 원리 | Principles of Artificial Intelligence | 전선 | 3 |
+| M3309.000100 | 인공지능의 원리 | Principles of Artificial Intelligence | 전선 | 3 |
+| M3309.000100 | 인공지능의 원리 | Principles of Artificial Intelligence | 전선 | 3 |
