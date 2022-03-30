@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Now
-tagline: What I'm doing now
-permalink: /now.html
-ref: now
+title: 소개
+tagline: 소개와 인사말
+permalink: /intro.html
+ref: intro
 order: 2
 ---
 
