@@ -1,19 +1,18 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://ai-dgist.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+title: 협동과정 인공지능 전공                                   # site's title
+description: "디지스트 AI 대학원"      # used by search engines
+avatar: assets/img/dgist-97-30.svg                         # Empty for no avatar in navbar
+color_theme: auto
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/header/triangular.jpeg
+header_text: DGIST AI Graduate School
+header_feature_image: assets/img/header/svisual01.jpeg
 header_feature_image_responsive: true
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+footer_text: 42988 대구광역시 달성군 현풍읍 테크노중앙대로 333 <br> COPYRIGHT 2022 DGIST. ALL RIGHTS RESERVED.
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
