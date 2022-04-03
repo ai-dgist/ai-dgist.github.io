@@ -22,9 +22,21 @@ layout: default
         {% endif %}
     </style>
     <div id="main" class="call-out call-out_img">
-        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+        <h2> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h2>
     </div>
 
+    <div id="intro" style="float: left; margin-left: 150px; padding-left: 25px; margin-top: 25px; padding-top: 25px; padding-right: 25px; margin-bottom: 25px; padding-bottom: 25px; width: 40%; background-color: rgb(210, 225, 249); border-radius: 15px 50px 30px;">
+    <p><i>
+    "DGIST 인공지능 전공에서는 인공지능 교육, 연구, 산학협력의 혁신을 통해
+    실무역량을 겸비한 국제적 수준의 AI 고급인재 양성을 목표합니다." <br><br>
+    "인공지능 핵심기술 및 서비스 구현기술 연구를 통해 국가 및 글로벌 사회를 위한 AI 수요를 충족하는 동시에,
+    최고수준의 인재 양성 및 연구역량을 기반으로 글로벌 AI연구 선도를 목표합니다."
+    </i></p>
+    </div>
+
+    <div id="intro" style="float: right; margin-top: 25px; padding-top: 10px; padding-right: 10px; margin-right: 150px; padding-bottom: 50px; width: 35%; border-style: solid; border-color: rgb(210, 225, 249);">
+    <p style=" float: right; margin-right: 10px; margin-top: -5px;"> News </p>
     {% include blog/blog.liquid %}
+    </div>
 
 </div>

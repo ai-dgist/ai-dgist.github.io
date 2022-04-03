@@ -3,13 +3,13 @@ baseurl: ""
 url: "https://ai-dgist.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: 협동과정 인공지능 전공                                   # site's title
-description: "디지스트 AI 대학원"      # used by search engines
+title: 디지스트 인공지능 전공                                   # site's title
+description: "디지스트 인공지능 전공"      # used by search engines
 avatar: assets/img/dgist-97-30.svg                         # Empty for no avatar in navbar
 color_theme: auto
 
 # Header and footer text
-header_text: DGIST AI Graduate School
+header_text: The Interdisciplinary Studies of Artificial Intelligence
 header_feature_image: assets/img/header/svisual01.jpeg
 header_feature_image_responsive: true
 footer_text: 42988 대구광역시 달성군 현풍읍 테크노중앙대로 333 <br> COPYRIGHT 2022 DGIST. ALL RIGHTS RESERVED.

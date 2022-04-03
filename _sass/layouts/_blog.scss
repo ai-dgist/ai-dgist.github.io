@@ -16,6 +16,11 @@
     @extend .subtle-txt-shadow;
   }
 
+  h2 {
+    font-family: $font-family-logo;
+    @extend .subtle-txt-shadow;
+  }
+
   /* --- Responsive --- */
   @media screen and (max-width: $m-break) {
     background-size: 170% auto;
@@ -45,12 +50,13 @@
 /* --- Post listing --- */
 .posts {
   .post-teaser {
-    @extend %padding-post;
+    padding-left: 20px;
     width: 100%;
     margin-bottom: 0;
     display: inline-block;
     background-size: cover;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
 
     p a {
       @extend .body-link;
@@ -96,6 +102,8 @@
   }
 
   .excerpt {
-    margin-top: 1em;
+    margin-top: 1.3em;
+    font-size: 15px;
+
   }
 }

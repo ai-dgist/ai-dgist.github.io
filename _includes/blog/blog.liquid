@@ -12,12 +12,12 @@
         </div>
         {% endif %}
         <span>
-          <header>
-            <h1>
+          <header style="float: left; margin-right: 20px;">
+            <h4>
               <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title }}
               </a>
-            </h1>
+            </h4>
             {% include blog/post_info.liquid author=post.author date=post.date %}
           </header>
           {% if site.excerpt or site.theme_settings.excerpt %}

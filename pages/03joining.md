@@ -2,8 +2,56 @@
 layout: page
 title: 입학안내
 permalink: /03joining/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/header/svisual_sub01_edit.jpg"
 tags: [Page]
 ---
 
-인건비/혜택/연구내용 등이 궁금할 것 같음, 재학기간 중 국제학회 참여 기회 제공, 과제 참여에 따른 추가 인건비 (입학팀 공고나갈 때도 같이 나가면 좋을 것 같음) 
+<div>
+<p style="float: left; margin-left: 40px; margin-right: 20px; width: 20%; height: 140px;">
+<u><b>전형일정</b></u>
+</p>
+
+
+<ul style="float: right; width: 65%; height: 140px; padding-left: 18px;">
+<li> 원서접수: 2022.4.7(목) - 4.28(목) </li>
+<li> 면접대상자 발표: 2022.5.19(목) </li>
+<li> 면접평가: 2022.5.25(수) - 6.3(금) </li>
+<li> 합격자 발표: 2022.6.20(월) </li>
+</ul>
+</div>
+
+
+
+<div align="left">
+<p style="float: left; margin-left: 40px; margin-right: 20px; width: 20%; height: 80px;">
+<u><b>모집과정</b></u>
+</p>
+
+<p style="float: right; width: 65%; height: 80px;">
+석사과정, 석박통합과정, 박사과정 (석박통합과정의 경우, 학과의 평가결과에 따라 통합과정이 아닌 석사과정으로 입학 가능)
+</p>
+</div>
+
+
+
+<div align="left">
+<p style="float: left; margin-left: 40px; margin-right: 20px; width: 20%; height: 70px;">
+<u><b>접수방법</b></u>
+</p>
+
+<p style="float: right; width: 65%; height: 70px;">
+DGIST 대학원 입학 홈페이지(dgist.ac.kr/gadm/)에 접속하여 지원서 접수
+</p>
+</div>
+
+
+
+
+<div>
+<p style="float: left; margin-left: 40px; margin-right: 20px; width: 20%; height: 140px;">
+<u><b>대학원 장학생 유형</b></u>
+</p>
+
+
+<img align="right" width="600px" src="/assets/img/scholarship_type.png">
+</div>
