@@ -9,7 +9,7 @@ tags: [Page]
 
 
 <img align="left" width="100" src="/assets/img/faculty/kjpark1.jpeg">
-박경준 총괄책임교수  
+박경준 전공책임교수  
 <span style="font-size:70%">
 학위: Ph. D., SNU, Korea  
 전문분야: Learning-enabled Cyber-Physical Systems, Cyber-Physical Security, Network and Control Co-design  
@@ -52,11 +52,11 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/Kwak.jpeg">
+<img align="left" width="100" src="/assets/img/faculty/yongjune_kim.jpeg">
 김용준 교수  
 <span style="font-size:70%">
-학위: Ph. D., KAIST, Korea  
-전문분야: Cloud Computing, Mobile Systems, AI in Network Systems  
+학위: Ph. D., Carnegie Mellon Univ., USA  
+전문분야: Machine Learning, Coding and Information Theory, Storage and Computing  
 이메일: yjk@dgist.ac.kr  
 홈페이지: <a href="https://iil.dgist.ac.kr/">Information & Intelligence Lab</a>  
 </span>
