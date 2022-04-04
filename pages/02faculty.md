@@ -30,7 +30,7 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/증명사진_궁재하.png">
+<img align="left" width="100" src="/assets/img/faculty/kung.png">
 궁재하 교수  
 <span style="font-size:70%">
 학위: Ph. D., Georgia Institute of Technology, USA  
@@ -63,7 +63,7 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/사진-문인규-e1505971883944.png">
+<img align="left" width="100" src="/assets/img/faculty/moon.png">
 문인규 교수  
 <span style="font-size:70%">
 학위: Ph. D., University of Connecticut, USA  
@@ -74,7 +74,7 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/박상현-201x300.png">
+<img align="left" width="100" src="/assets/img/faculty/parksang.png">
 박상현 교수  
 <span style="font-size:70%">
 학위: Ph. D., SNU, Korea  
@@ -85,7 +85,7 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/서대원_비율43.jpeg">
+<img align="left" width="100" src="/assets/img/faculty/seo.jpeg">
 서대원 교수  
 <span style="font-size:70%">
 학위: Ph.D., Univ. of Illinois at Urbana-Champaign, USA  
@@ -96,35 +96,13 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/송진영_NNm6QdK.png">
+<img align="left" width="100" src="/assets/img/faculty/song.png">
 송진영 교수  
 <span style="font-size:70%">
 학위: Ph. D., Univ. of Michigan, USA  
 전문분야: Human-Computer Interaction, Artificial Intelligence, Human-AI Collaboration, Crowdsourcing  
 이메일: jeansong@dgist.ac.kr  
 홈페이지: <a href="https://diag.kr/">DIA Group</a>  
-</span>
-
-----------
-
-<img align="left" width="100" src="/assets/img/faculty/크기변환_sehoon.png">
-오세훈 교수  
-<span style="font-size:70%">
-학위: Ph. D., The University of Tokyo, Japan  
-전문분야: 친인간적인 운동제어 설계연구, 인간 보조/재활 시스템의 설계 및 개발연구, 인간 근골격계에 기초한 로봇기구 개발연구, 보행운동 분석과 모델 및 로봇기구에의 응용  
-이메일: sehoon@dgist.ac.kr  
-홈페이지: <a href="http://control.dgist.ac.kr/">Motion Control Lab</a>  
-</span>
-
-----------
-
-<img align="left" width="100" src="/assets/img/faculty/재석증명사진_한국.jpeg">
-유재석 교수  
-<span style="font-size:70%">
-학위: Ph. D., University of Pittsburgh, USA  
-전문분야: Biomedical ultrasound/photoacoustic imaging and therapeutics, Medical image processing, Machine learning-based diagnosis and signal processing, Nano-theranostic platform  
-이메일: jaesok.yu@dgist.ac.kr  
-홈페이지: <a href="https://ultrasound.dgist.ac.kr/">Advanced Ultrasound Research Lab</a>  
 </span>
 
 ----------
@@ -162,17 +140,6 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/Jang-2.png">
-장경인 교수  
-<span style="font-size:70%">
-학위: Ph. D., Yonsei University, Korea  
-전문분야: Skin-mounted or transplantable medical, diagnosis/treatment system, Embedded system for wireless power, Bio-signal processing and communication, Artificial muscle delayed robot  
-이메일: kijang@dgist.ac.kr  
-홈페이지: <a href="http://imp.dgist.ac.kr/">Bio-integrated Electronics Lab</a>  
-</span>
-
-----------
-
 <img align="left" width="100" src="/assets/img/faculty/Dr_JHChang_2015_v2.jpeg">
 장진호 교수  
 <span style="font-size:70%">
@@ -184,7 +151,7 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/좌훈승.jpeg">
+<img align="left" width="100" src="/assets/img/faculty/chwa.jpeg">
 좌훈승 교수  
 <span style="font-size:70%">
 학위: Ph. D., KAIST, Korea  
@@ -195,7 +162,7 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/Kwak.jpeg">
+<img align="left" width="100" src="/assets/img/faculty/IDPhoto_jkh_ODLm6W5.jpeg">
 진경환 교수  
 <span style="font-size:70%">
 학위: Ph. D., KAIST, Korea  
@@ -206,24 +173,13 @@ tags: [Page]
 
 ----------
 
-<img align="left" width="100" src="/assets/img/faculty/사진1.jpeg">
+<img align="left" width="100" src="/assets/img/faculty/choi.jpeg">
 최지웅 교수  
 <span style="font-size:70%">
 학위: Ph. D., SNU, Korea  
 전문분야: Comm. and Signal Processing, Vehicular Comm. and Security, Biomedical Signal Processing, AI and Brain Machine Interface, Magnetic Comm. and Energy Transfer  
 이메일: jwchoi@dgist.ac.kr  
 홈페이지: <a href="http://comm.dgist.ac.kr/">CSP Lab</a>  
-</span>
-
-----------
-
-<img align="left" width="100" src="/assets/img/faculty/황민호-교수님.jpeg">
-황민호 교수  
-<span style="font-size:70%">
-학위: Ph. D., KAIST, Korea  
-전문분야: 로봇 파지 및 조작, 로봇/인공지능 기반 수술, 차세대 수술로봇 시스템, 로봇 학습 및 제어  
-이메일: minho@dgist.ac.kr  
-홈페이지: <a href="https://sites.google.com/view/surglab/">SurgLab</a>  
 </span>
 
 ----------
