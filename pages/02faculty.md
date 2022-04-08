@@ -194,7 +194,7 @@ tags: [Page]
 <p style="float: right; font-size:70%; width: 65%;">
 <span style="font-size:14pt;"> 장진호 교수 </span><br>
 학위: Ph. D., Univ. of Southern California, USA  <br>
-전문분야: Medical Ultrasound Imaging & Therapy, Photoacoustic Imaging, Ultrasound Sensors, Biomedical Signal & Image Processing  <br>
+전문분야: AI-based Imaging Systems, Biomedical Signal & Image Processing, Ultrasound Imaging Systems and Sensors  <br>
 이메일: jhchang@dgist.ac.kr  <br>
 홈페이지: <a href="https://mafi.dgist.ac.kr/">MAFI Lab</a>  <br>
 </p>
