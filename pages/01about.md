@@ -8,11 +8,11 @@ tags: [Page]
 
 
 <div align="left" style="min-height: 100%; position: relative; clear:both; margin-bottom: 20px;">
-<p style="float: left; margin-left: 10%; margin-right: 5%; width: 20%;">
+<p style="float: left; margin-left: 10%; width: 20%;">
 <u><b>개요</b></u>
 </p>
 
-<p style="float: right; width: 65%;">
+<p style="float: right; width: 65%; margin-bottom: 25px;">
 인공지능전공은 국내외 최고의 AI 교수진과 인프라를 바탕으로 다방면(Multi-disciplinary)의 학문을 융합하여 세계 수준의 AI 개발 및 연구를 실무에서 수행할 수 있는 AI 고급전문인력을 배출하는 것이 목표입니다. 특히, 4차 산업혁명 시대에 주목받는 스마트시티, 제조/혁신, 바이오/의료와 인공지능을 융합한 차별화 된 커리큘럼을 제공하고, 국내 및 지역 산업계의 요구에 맞는 융복합 연구 프로그램을 운영합니다.
 </p>
 </div>
@@ -20,22 +20,22 @@ tags: [Page]
 
 
 <div align="left" style="min-height: 100%; position: relative; clear:both;">
-<p style="float: left; margin-left: 10%; margin-right: 5%; width: 20%;">
+<p style="float: left; margin-left: 10%; width: 20%;">
 <u><b>비전</b></u>
 </p>
 
-<p style="float: right; width: 65%;">
+<p style="float: right; width: 65%; margin-bottom: 25px;">
 실무형 고급 인공지능 융합 혁신 인재 양성
 </p>
 </div>
 
 
 <div align="left" style="min-height: 100%; position: relative; clear:both;">
-<p style="float: left; margin-left: 10%; margin-right: 5%; width: 20%;">
+<p style="float: left; margin-left: 10%; width: 20%;">
 <u><b>전공분야의 특성화</b></u>
 </p>
 
-<div style="float: right; width: 65%;">
+<div style="float: right; width: 65%; margin-bottom: 25px;">
 <ul>
 <li> 융합 산학공동 교육 트랙 제공: AI-창업, AI-산학연계, AI-산학협력 </li>
 <li> 인공지능 특화 교육과정 제공 </li>
@@ -48,11 +48,11 @@ tags: [Page]
 
 
 <div align="left" style="min-height: 100%; position: relative; clear:both;">
-<p style="float: left; margin-left: 10%; margin-right: 5%; width: 20%;">
+<p style="float: left; margin-left: 10%; width: 20%;">
 <u><b>중점 연구 분야</b></u>
 </p>
 
-<div style="float: right; width: 65%;">
+<div style="float: right; width: 65%; margin-bottom: 25px;">
 <ul>
 <li> ML theory </li>
 <ul>
