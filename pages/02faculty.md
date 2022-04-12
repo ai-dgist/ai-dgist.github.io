@@ -104,7 +104,7 @@ tags: [Page]
 <p style="float: right; font-size:70%; width: 65%;">
 <span style="font-size:14pt;"> 박상현 교수 </span><br>
 학위: Ph. D., SNU, Korea  <br>
-전문분야: Medical Image Processing, Machine Learning, Computer Vision  <br>
+전문분야: Medical Image Analysis, Computer Vision, Machine Learning  <br>
 이메일: shpark13135@dgist.ac.kr  <br>
 홈페이지: <a href="https://sites.google.com/view/mispl/home">MISPL</a>  <br>
 </p>
@@ -164,7 +164,7 @@ tags: [Page]
 <p style="float: right; font-size:70%; width: 65%;">
 <span style="font-size:14pt;"> 이성진 교수 </span><br>
 학위: Ph. D., SNU, Korea  <br>
-전문분야: Operating System, Computer Systems, Storage Systems, System Software  <br>
+전문분야: Computer Systems, Data & Storage Systems, AI for Systems, Systems for AI, System Software  <br>
 이메일: sungjin.lee@dgist.ac.kr  <br>
 홈페이지: <a href="https://datalab.dgist.ac.kr/">Data Lab</a>  <br>
 </p>
@@ -224,7 +224,7 @@ tags: [Page]
 <p style="float: right; font-size:70%; width: 65%;">
 <span style="font-size:14pt;"> 진경환 교수 </span><br>
 학위: Ph. D., KAIST, Korea  <br>
-전문분야: Deep Neural Network for Image Processing, Image Processing Algorithm for Inverse Problems  <br>
+전문분야: Deep Neural Network for Image Processing, Image Processing Algorithm for Inverse Problems, Computational Photography <br>
 이메일: kyong.jin@dgist.ac.kr  <br>
 홈페이지: <a href="https://ipl.dgist.ac.kr/">Image Processing Lab</a>  <br>
 </p>
