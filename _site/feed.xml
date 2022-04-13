@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-12T19:24:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">인공지능 전공</title><subtitle>인공지능 전공</subtitle><entry><title type="html">모집공고</title><link href="http://localhost:4000/2022/03/31/blogging-with-title.html" rel="alternate" type="text/html" title="모집공고" /><published>2022-03-31T00:00:00+09:00</published><updated>2022-03-31T00:00:00+09:00</updated><id>http://localhost:4000/2022/03/31/blogging-with-title</id><content type="html" xml:base="http://localhost:4000/2022/03/31/blogging-with-title.html">&lt;div align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-13T14:46:42+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">인공지능 전공</title><subtitle>인공지능 전공</subtitle><entry><title type="html">Three papers have been accepted to CVPR 2022!</title><link href="http://localhost:4000/2022/04/13/post1.html" rel="alternate" type="text/html" title="Three papers have been accepted to CVPR 2022!" /><published>2022-04-13T00:00:00+09:00</published><updated>2022-04-13T00:00:00+09:00</updated><id>http://localhost:4000/2022/04/13/post1</id><content type="html" xml:base="http://localhost:4000/2022/04/13/post1.html">&lt;div align=&quot;center&quot;&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+Three papers from DGIST AI got accepted to the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022. &lt;br /&gt;&lt;br /&gt;
+
+List of the papers:&lt;br /&gt;&lt;br /&gt;
+
+1. ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation&lt;br /&gt;&lt;br /&gt;
+
+Seunghun Lee, Wonhyeok Choi, Changjae Kim, Minwoo Choi, Sunghoon Im&lt;br /&gt;&lt;br /&gt;
+
+2. Local Texture Estimator for Implicit Representation Function&lt;br /&gt;&lt;br /&gt;
+
+Jaewon Lee and Kyong Hwan Jin&lt;br /&gt;&lt;br /&gt;
+
+3. CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification&lt;br /&gt;&lt;br /&gt;
+
+Philip Chikontwe, Soopil Kim, Sang Hyun Park&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Test" /><category term="Image" /><summary type="html"></summary></entry><entry><title type="html">모집공고</title><link href="http://localhost:4000/2022/03/31/post0.html" rel="alternate" type="text/html" title="모집공고" /><published>2022-03-31T00:00:00+09:00</published><updated>2022-03-31T00:00:00+09:00</updated><id>http://localhost:4000/2022/03/31/post0</id><content type="html" xml:base="http://localhost:4000/2022/03/31/post0.html">&lt;div align=&quot;center&quot;&gt;
 &lt;h2&gt; 2022학년도 대학원 가을학기전형 원서접수 안내(4.7. ~ 4.28.) &lt;/h2&gt;
 &lt;br /&gt;
 &lt;/div&gt;
@@ -68,4 +90,5 @@
 ○ 문의처 : 입학팀(053-785-5146, admission@dgist.ac.kr, http://dgist.ac.kr/gadm/)
 
 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;
 &lt;/참고사항&gt;&lt;/div&gt;</content><author><name></name></author><category term="Test" /><category term="Image" /><summary type="html">2022학년도 대학원 가을학기전형 원서접수 안내(4.7. ~ 4.28.)</summary></entry></feed>

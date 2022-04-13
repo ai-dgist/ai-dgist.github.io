@@ -239,7 +239,7 @@ tags: [Page]
 <p style="float: right; font-size:70%; width: 65%;">
 <span style="font-size:14pt;"> 최지웅 교수 </span><br>
 학위: Ph. D., SNU, Korea  <br>
-전문분야: Comm. and Signal Processing, Vehicular Comm. and Security, Biomedical Signal Processing, AI and Brain Machine Interface, Magnetic Comm. and Energy Transfer  <br>
+전문분야: Communication and Signal Processing/Machine Learning, AI for Vehicular Communications and Security, AI for Brain Computer Interfaces and Biomedical Systems  <br>
 이메일: jwchoi@dgist.ac.kr  <br>
 홈페이지: <a href="http://comm.dgist.ac.kr/">CSP Lab</a>  <br>
 </p>
