@@ -89,7 +89,7 @@ tags: [Page]
 <p style="float: right; font-size:70%; width: 65%;">
 <span style="font-size:14pt;"> 문인규 교수 </span><br>
 학위: Ph. D., University of Connecticut, USA  <br>
-전문분야: Intelligent Holographic Imaging Systems, Biomedical Imaging Informatics, Image processing & Image Analysis, Computer Vision & Machine Learning  <br>
+전문분야: AI in Computer Vision, Cryptosystems, and Biomedical Imaging  <br>
 이메일: inkyu.moon@dgist.ac.kr  <br>
 홈페이지: <a href="http://iivs.dgist.ac.kr/">IIVs Lab</a>  <br>
 </p>
