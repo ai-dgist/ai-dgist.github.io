@@ -7,6 +7,14 @@ tags: [Page]
 ---
 
 
+<div align="center">
+<br>
+<h3><a href="/02faculty/" style="color: #004890;">All</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/1/">ML 이론</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/2/">비전 및 이미징</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/3/">AI 로보틱스</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/4/">AI 시스템</a></h3>
+<br><br>
+</div>
+
+
+
 <div style="min-height: 100%; position: relative; clear:both;">
 <div align="left" style="width: 30%; margin-left: 15%; ">
 <img width="100" src="/assets/img/faculty/kjpark1.jpeg" style="float:left;">
