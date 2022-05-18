@@ -1,4 +1,4 @@
-I"<div align="center">
+I"g<div align="center">
 <br />
 <h3><a href="/02faculty/">All</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/1/">ML 이론</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/2/">비전 및 이미징</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/3/" style="color: #004890;">AI 로보틱스</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/4/">AI 시스템</a></h3>
 <br /><br />
@@ -14,6 +14,21 @@
 전문분야: AI in Computer Vision, Cryptosystems, and Biomedical Imaging  <br />
 이메일: inkyu.moon@dgist.ac.kr  <br />
 홈페이지: <a href="http://iivs.dgist.ac.kr/">IIVs Lab</a>  <br />
+</p>
+</div>
+
+<hr />
+
+<div style="min-height: 100%; position: relative; clear:both;">
+<div align="left" style="width: 30%; margin-left: 15%; ">
+<img width="100" src="/assets/img/faculty/csong.jpeg" style="float:left;" />
+</div>
+<p style="float: right; font-size:70%; width: 65%;">
+<span style="font-size:14pt;"> 송철 교수 </span><br />
+학위: Ph. D., KAIST, Korea  <br />
+전문분야: Human-robot interaction, Artificial intelligence, Optical imaging  <br />
+이메일: csong@dgist.ac.kr  <br />
+홈페이지: <a href="https://sites.google.com/view/dgist-ibom/">IBOM Lab</a>  <br />
 </p>
 </div>
 
