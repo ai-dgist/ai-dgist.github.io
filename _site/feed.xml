@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-18T14:31:11+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">인공지능 전공</title><subtitle>인공지능 전공</subtitle><entry><title type="html">Three papers accepted to CVPR 2022!</title><link href="http://localhost:4000/2022/04/13/post1.html" rel="alternate" type="text/html" title="Three papers accepted to CVPR 2022!" /><published>2022-04-13T00:00:00+09:00</published><updated>2022-04-13T00:00:00+09:00</updated><id>http://localhost:4000/2022/04/13/post1</id><content type="html" xml:base="http://localhost:4000/2022/04/13/post1.html">&lt;div align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-17T13:01:02+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">인공지능 전공</title><subtitle>인공지능 전공</subtitle><entry><title type="html">A papers accepted to MICCAI 2022!</title><link href="http://localhost:4000/2022/06/17/post.html" rel="alternate" type="text/html" title="A papers accepted to MICCAI 2022!" /><published>2022-06-17T00:00:00+09:00</published><updated>2022-06-17T00:00:00+09:00</updated><id>http://localhost:4000/2022/06/17/post</id><content type="html" xml:base="http://localhost:4000/2022/06/17/post.html">&lt;div align=&quot;center&quot;&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+We have a paper from DGIST AI got accepted to the 25th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI) 2022. &lt;br /&gt;&lt;br /&gt;
+
+
+&lt;strong&gt;&quot;USG-Net: Deep Learning-based Ultrasound Scanning-Guide for an Orthopedic Sonographer&quot;&lt;/strong&gt; &lt;br /&gt;&lt;br /&gt;
+
+Kyungsu Lee, Jaeseung Yang, Moon Hwan Lee, Jin Ho Chang, Jun-Young Kim, and Jae Youn Hwang &lt;br /&gt;&lt;br /&gt;
+
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img width=&quot;70%&quot; src=&quot;/assets/img/USG-Net_MICCAI2022.png&quot; /&gt;&lt;/p&gt;
+
+Prof. Hwang announced that his recent paper entitled “USG-Net: Deep Learning-based Ultrasound Scanning-Guide for an Orthopedic Sonographer” has been accepted to MICCAI 2022. In the study, he developed a deep learning-based US Scanning-Guide Network (USG-Net) with the automatic dataset construction method based on 3D US images. USG-Net offers a guidance accuracy of 77.86%, demonstrating its potential as a novel tool for assisting sonographers in the diagnosis of various diseases using ultrasound imaging.
+
+
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Test" /><category term="Image" /><summary type="html"></summary></entry><entry><title type="html">Three papers accepted to CVPR 2022!</title><link href="http://localhost:4000/2022/04/13/post1.html" rel="alternate" type="text/html" title="Three papers accepted to CVPR 2022!" /><published>2022-04-13T00:00:00+09:00</published><updated>2022-04-13T00:00:00+09:00</updated><id>http://localhost:4000/2022/04/13/post1</id><content type="html" xml:base="http://localhost:4000/2022/04/13/post1.html">&lt;div align=&quot;center&quot;&gt;
 &lt;h2&gt; &lt;/h2&gt;
 &lt;br /&gt;
 &lt;/div&gt;
