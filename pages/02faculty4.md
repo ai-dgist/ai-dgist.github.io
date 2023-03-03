@@ -30,7 +30,7 @@ tags: [Page]
 
 <hr>
 
-<div style="min-height: 100%; position: relative; clear:both;">
+<!--div style="min-height: 100%; position: relative; clear:both;">
 <div align="left" style="width: 30%; margin-left: 15%; ">
 <img width="100" src="/assets/img/faculty/kung.png" style="float:left;">
 </div>
@@ -43,7 +43,7 @@ tags: [Page]
 </p>
 </div>
 
-<hr>
+<hr-->
 
 <div style="min-height: 100%; position: relative; clear:both;">
 <div align="left" style="width: 30%; margin-left: 15%; ">

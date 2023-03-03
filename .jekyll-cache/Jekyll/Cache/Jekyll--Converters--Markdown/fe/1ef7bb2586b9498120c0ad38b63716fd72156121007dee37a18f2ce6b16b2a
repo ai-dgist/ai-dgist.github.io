@@ -1,4 +1,4 @@
-I"m<div align="center">
+I"d<div align="center">
 <br />
 <h3><a href="/02faculty/">All</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/1/">ML 이론</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/2/">비전 및 이미징</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/3/">AI 로보틱스</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/02faculty/4/" style="color: #004890;">AI 시스템</a></h3>
 <br /><br />
@@ -19,20 +19,20 @@
 
 <hr />
 
-<div style="min-height: 100%; position: relative; clear:both;">
+<!--div style="min-height: 100%; position: relative; clear:both;">
 <div align="left" style="width: 30%; margin-left: 15%; ">
-<img width="100" src="/assets/img/faculty/kung.png" style="float:left;" />
+<img width="100" src="/assets/img/faculty/kung.png" style="float:left;">
 </div>
 <p style="float: right; font-size:70%; width: 65%;">
-<span style="font-size:14pt;"> 궁재하 교수 </span><br />
-학위: Ph. D., Georgia Institute of Technology, USA  <br />
-전문분야: Deep Learning Hardware Acceleration, Energy Efficient Circuit Design  <br />
-이메일: jhkung@dgist.ac.kr  <br />
-홈페이지: <a href="http://idslab.dgist.ac.kr/">IDS Lab</a>  <br />
+<span style="font-size:14pt;"> 궁재하 교수 </span><br>
+학위: Ph. D., Georgia Institute of Technology, USA  <br>
+전문분야: Deep Learning Hardware Acceleration, Energy Efficient Circuit Design  <br>
+이메일: jhkung@dgist.ac.kr  <br>
+홈페이지: <a href="http://idslab.dgist.ac.kr/">IDS Lab</a>  <br>
 </p>
 </div>
 
-<hr />
+<hr-->
 
 <div style="min-height: 100%; position: relative; clear:both;">
 <div align="left" style="width: 30%; margin-left: 15%; ">
